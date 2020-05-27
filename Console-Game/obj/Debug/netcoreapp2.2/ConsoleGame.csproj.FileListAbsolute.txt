@@ -1,0 +1,12 @@
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\bin\Debug\netcoreapp2.2\ConsoleGame.deps.json
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.json
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.dev.json
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\bin\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\bin\Debug\netcoreapp2.2\ConsoleGame.pdb
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\obj\Debug\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\obj\Debug\netcoreapp2.2\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\obj\Debug\netcoreapp2.2\ConsoleGame.dll
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\obj\Debug\netcoreapp2.2\ConsoleGame.pdb
+C:\Users\Yvonne\Desktop\Codecademy\Console-Game\obj\Debug\netcoreapp2.2\ConsoleGame.genruntimeconfig.cache
